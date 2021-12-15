@@ -1,0 +1,24 @@
+=====================================
+Marine Ecoregions and Pelagic Provinces of the World (2007, 2012)
+
+	Version 1.0, May 2015
+	Distributed under UNEP-WCMC's General Data License (excluding WDPA)
+	For more information, please contact marine@unep-wcmc.org. 
+
+--------------------------------------------------------
+Citation:
+The Nature Conservancy (2012). Marine Ecoregions and Pelagic Provinces of the World. GIS layers developed by The Nature Conservancy with multiple partners, combined from Spalding et al. (2007) and Spalding et al. (2012). Cambridge (UK): The Nature Conservancy. DOIs: 10.1641/B570707; 10.1016/j.ocecoaman.2011.12.016. Data URL: http://data.unep-wcmc.org/datasets/38
+
+Citations for the separate entities:
+Spalding MD, Fox HE, Allen GR, Davidson N, Ferdaña ZA, Finlayson M, Halpern BS, Jorge MA, Lombana A, Lourie SA, Martin KD, McManus E, Molnar J, Recchia CA, Robertson J (2007). Marine Ecoregions of the World: a bioregionalization of coast and shelf areas. BioScience 57: 573-583. DOI: 10.1641/B570707. Data URL: http://data.unep-wcmc.org/datasets/38
+
+Spalding MD, Agostini VN, Rice J, Grant SM (2012). Pelagic provinces of the world): a biogeographic classification of the world’s surface pelagic waters. Ocean and Coastal Management 60: 19-30. DOI: 10.1016/j.ocecoaman.2011.12.016. Data URL: http://data.unep-wcmc.org/datasets/38
+--------------------------------------------------------
+
+Earlier version-specific comments:
+============================================
+This dataset (WCMC-036) combines two separately published datasets: the “Marine Ecoregions Of the World” (MEOW; 2007) and the “Pelagic Provinces Of the World” (PPOW; 2012). These datasets were developed by Mark Spalding and colleagues in The Nature Conservancy. Alongside the individual authors, partners for the MEOW layer included WWF, Ramsar, WCS, and UNEP-WCMC. The ecoregions and pelagic provinces are broadly aligned with each other and are non-overlapping. The combined dataset should be used for all purposes, particularly spatial analyses.
+
+For more information regarding change between versions, please refer to the "Lineage" field in the metadata. 
+
+
