@@ -6,6 +6,9 @@
 rm(list=ls())
 options(stringsAsFactors = FALSE)
 
+# home<-'~/Documents/PERSONAL/COOOL/projects/Ecoregions_2021/github/Ecoregions/'
+# setwd(home)
+
 analysis<-'PPOWMEOW' #options are : PPOW,PPOWMEOW,LONG
 reassign<-FALSE # for PPOW analysis - TRUE indicates that some MEOW provinces will be reassigned as PPOW
                 # for PPOWMEOW analysis - TRUE indicates that PPOW provinces will be reassinged as MEOW.
@@ -13,9 +16,15 @@ layer<-'fishery' # options are : species, fishery, size
 start_year<-2005
 end_year<-2019
 
-source('~/Documents/PERSONAL/COOOL/projects/Ecoregions_2021/code/iotc_ca_regrid.R')
-source('~/Documents/PERSONAL/COOOL/projects/Ecoregions_2021/code/iotc_regrid.R')
-source('~/Documents/PERSONAL/COOOL/projects/Ecoregions_2021/code/regrid_datalayers.R')
+# source('~/code/iotc_ca_regrid.R')
+source('/code/iotc_regrid.R')
+source('~/code/regrid_datalayers.R')
+
+
+
+# source('~/Documents/PERSONAL/COOOL/projects/Ecoregions_2021/github/Ecoregions/code/iotc_ca_regrid.R')
+# source('~/Documents/PERSONAL/COOOL/projects/Ecoregions_2021/code/iotc_regrid.R')
+# source('~/Documents/PERSONAL/COOOL/projects/Ecoregions_2021/code/regrid_datalayers.R')
 home<-'/home/ae/Documents/PERSONAL/COOOL/projects/Ecoregions_2021/data/'
 setwd(home)
 library(pacman)
